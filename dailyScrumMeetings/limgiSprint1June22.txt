@@ -1,0 +1,15 @@
+Work Done:
+- Made jshell run appropriate command if given
+- Added template specific command java files to be used later (since all need to inherit methods, decided to pre-create them to save time later)
+- Wrote sprint 2 backlog
+- Started some of sprint2 tasks to reduce amount of work for next week (had time to do it)
+- Overtook role as scrum master, to create a form of structure and orginization in this group that was lacking
+	Progress was too slow, and time was wasted because lack of above.
+
+Work To Do:
+- code run method of cd and mkdir
+- jshell requires current dir reference to be given to the filesystem class (ultimateley)
+
+Problems:
+Cant get rest of my sprint done since my tasks relies on FileSystem code (assigned to Pravinthan)
+	June 22: Pravinthan cant work on FileSystem until 11pm since he has work

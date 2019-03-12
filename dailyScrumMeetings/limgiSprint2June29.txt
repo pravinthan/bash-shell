@@ -1,0 +1,14 @@
+Work Done:
+- Finished all tasks of spbl3 including run metods of popd and push commands
+- 	created exceptions class for trying to pop from empty stack
+- Formatted and organized code
+- fixed bugs in cd, mkdir, and filesystem
+- Made spbl3
+
+Work To Do:
+- Test all code (make test cases)
+- optimize code to meet all specifications of client (ie grading scheme)
+
+
+Problems:
+

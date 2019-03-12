@@ -1,0 +1,10 @@
+Work Done:
+- basic Jshell structure
+- implemented Output and OutputToConsole command and used in Jshell class
+- talked with Ted Lim about regarding the lack of structure and re-organised CRC cards
+
+Work To Do:
+6.a-c) 7.a-c) 8.a) 10.a-c), in sprint 2 backlog
+
+Problems:
+no

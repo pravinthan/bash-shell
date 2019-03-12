@@ -1,0 +1,10 @@
+Work Done:
+- Implemented constructor and isvalid method for the cat class
+- Implemented the run command for cat, more testing needed
+
+Work To Do:
+- complete task 3 b, 9 c
+- continually updating the pwd and cat class to accommodate for collaborator changes
+
+Problems:
+- 

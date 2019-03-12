@@ -1,0 +1,11 @@
+What did I do last time?
+	- worked on tasks 2.a
+	- finished FileSystem.java (1.a)
+	- finished Directory.java
+	- added new req to product backlog
+
+What do I plan to do now?
+	- work on 2.b, 2.c
+
+Am I blocked on anything?
+	- Nothing

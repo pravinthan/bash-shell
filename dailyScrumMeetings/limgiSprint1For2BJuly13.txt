@@ -1,0 +1,9 @@
+Work Done:
+- Made Jshell use hashtable
+- Allowed the ability for all commands to redirect if needed
+- Changed parts in code to accommodate for file system interface injection
+
+Work To Do:
+- Redirection for the commands I coded
+
+Problems:

@@ -1,0 +1,9 @@
+Work Done:
+- added redirect method to command superclass
+- fixed command parameters to new requirements
+
+Work To Do:
+- use the redirect method in the rest of the classes
+
+Problems:
+None

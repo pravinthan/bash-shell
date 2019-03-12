@@ -1,0 +1,14 @@
+Work Done:
+- Finished the tasks from spbl1
+- implmented stack for popd and pushd
+- wrote pseudo code for popd and pushd to be coded later
+
+Work To Do:
+- Code the run methods of popd and pushd
+- Create exception class for when trying to pop from empty stack
+- Check for typos, format and organize code that i wrote
+
+
+Problems:
+A group member is not following scrum process (not checking the sprint backlog to see what they need to do, rather asking me what they should do)
+Another group member decided to create classes with different responisbilities than the ones outlined in the crcCards (without any notice) while I made classes under the assumption those responsibilities are present, resulting in conflict and wasting time

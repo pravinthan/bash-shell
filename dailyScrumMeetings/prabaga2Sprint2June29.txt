@@ -1,0 +1,13 @@
+What did I do last time?
+	- finished tasks 9.a after 9.b was finished
+	- formatted classes
+	- final documentation checking
+	- fixed exception issues
+
+What do I plan to do now?
+	- work on 1.a in sprint3
+	- test code/commands
+	- adhere to the grading scheme
+
+Am I blocked on anything?
+	- Nothing

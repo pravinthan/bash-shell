@@ -1,0 +1,9 @@
+What did I do last time?
+	- fixed 2.b issues, finished 2.a from sprint 1
+	- finished 2.a, 2.b, 3.a from sprint 2
+
+What do I plan to do now?
+	- test commands and fix bugs
+
+Am I blocked on anything?
+	- Nothing

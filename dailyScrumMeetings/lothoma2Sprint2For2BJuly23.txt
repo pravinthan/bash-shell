@@ -1,0 +1,10 @@
+Work Done:
+- Fixed implementation of RepeatCmd
+- Completed implementation of curl
+- Updated old classes to accommodate for jshell and command changes
+- Began testing commands
+
+Work To Do:
+- Complete testing commands
+
+Problems:

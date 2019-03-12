@@ -1,0 +1,9 @@
+Work Done:
+- Completed hashtable in jshell (forgot to add the new commands to hashtable)
+- Implemented redirection of cd mkdir popd pushd
+- Incorporated generics into project
+
+Work To Do:
+
+
+Problems:

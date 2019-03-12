@@ -1,0 +1,8 @@
+Work Done:
+- Working on the implementation of the RepeatCmd
+
+Work To Do:
+- Implement usage of hashtables through jshell in RepeatCmd
+- Update previous commands to accommodate for jshell changes
+
+Problems:

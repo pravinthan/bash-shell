@@ -1,0 +1,10 @@
+Work Done:
+created loop for Jshell to "start" and exit condition
+worked on user console input
+separating the command and the arguments for the command
+
+Work To Do:
+use all the commands within the loop
+
+Problems:
+Some of the crc cards are confusing in terms of implementation, will discuss with group

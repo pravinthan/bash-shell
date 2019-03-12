@@ -1,0 +1,8 @@
+Work Done:
+- Changed parts in code to accommodate for new file system interface injection
+- did fileSystem interface.
+
+Work To Do:
+- do find, and ls recursively
+
+Problems:

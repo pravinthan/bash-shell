@@ -1,0 +1,9 @@
+Work Done:
+finished echo find commands
+
+Work to Do:
+Debug, make test cases
+javadocs
+
+Problems:
+none

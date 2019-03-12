@@ -1,0 +1,12 @@
+Work Done:
+- Worked on input, making it remove extraneous whitespace from input saved
+- Worked on Cd, Mkdir, Command class coding the basic functions
+- Revised crc Cards to create a better design
+Work To Do:
+- Implement the execution of cd and mkdir command
+- Make command class take in cd and mkdir as a valid option and code the execution as follows
+-   validate the input command
+-   if valid run the command, else output that it is invalid
+- Make InvalidCommandException that has message saying the command is invalid
+Problems:
+Wireless mouse on laptop stops functioning when I plug in my usb drive (works when if I use a different usb drive)

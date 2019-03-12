@@ -1,0 +1,7 @@
+Work Done:
+- Updated commands to accommodate for filesystem implementation changes
+
+Work To Do:
+- Complete the repeatCmd class, including its exceptions and output
+
+Problems:

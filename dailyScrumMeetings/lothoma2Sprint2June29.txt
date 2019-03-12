@@ -1,0 +1,11 @@
+Work Done:
+- Completed Cat class
+- Completed the Tree class
+- Completed the Man class 
+
+Work To Do:
+- Debug for any errors and bugs
+- continually updating the pwd, cat, man and tree class to accommodate for collaborator changes
+
+Problems:
+- 

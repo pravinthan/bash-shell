@@ -1,0 +1,10 @@
+Work Done:
+- Made commands testable (along with appropriate changes that were necessary)
+- Isolated redirection b/c of above
+- Implemented some methods of curl
+- Fixed some bugs
+
+Work To Do:
+- Test and fix any bugs
+
+Problems:

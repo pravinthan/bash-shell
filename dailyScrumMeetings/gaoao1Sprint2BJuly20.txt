@@ -1,0 +1,13 @@
+Work Done:
+- used the redirect method in the rest of the classes
+- Worked together with Pravithan using paired programing on Grep class
+- regex matcher for grep class
+- debugged grep class with Pravithan
+
+Work To Do:
+- testing all the code with Mock objects
+- Update Crc cards
+- write 1 page report
+
+Problems:
+None

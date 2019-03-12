@@ -1,0 +1,11 @@
+Work Done:
+Implemented history's validation
+Implement history in jshell so that on every user input it saves the string
+Implemented history's run method so that it returns a history of what the user has typed (all or a specific past number of them)
+Started doing echo and find commands
+
+Work To Do:
+finish echo and path implementarions
+
+Problems:
+no

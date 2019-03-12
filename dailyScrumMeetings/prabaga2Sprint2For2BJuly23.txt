@@ -1,0 +1,9 @@
+What did I do last time?
+	- fixed multiple bugs for many classes
+
+What do I plan to do now?
+	- test commands more
+	- do the bonus mark ant xml file thing
+
+Am I blocked on anything?
+	- Nothing

@@ -1,0 +1,12 @@
+What did I do last time?
+	- worked on tasks d.1 - e.3
+	- worked on implementing the Pwd class
+	- 
+
+What do I plan to do now?
+	- complete the tasks for d and e
+	- finish implementing the printing for pwd
+	- prepare for the tasks for sprint 2	
+
+Am I blocked on anything?
+	- Need JShell class to be finalized to implement the printing of the current directory for every prompt

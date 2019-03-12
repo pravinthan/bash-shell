@@ -1,0 +1,11 @@
+Work Done:
+- Finished the Pwd class including its run method
+- Modified JShell to be able to run pwd
+- Added pwd to be invoked before each input in JShell
+
+Work To Do:
+- start on tasks 3 a,b and 9 c
+- continually updating the pwd class to accommodate for collaborator changes
+
+Problems:
+- 

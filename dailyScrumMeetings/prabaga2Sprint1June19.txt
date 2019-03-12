@@ -1,0 +1,10 @@
+What did I do last time?
+	- worked on tasks f.1-f.5
+	- brainstormed ideas with team on how to use the execute method for commands
+
+What do I plan to do now?
+	- finish rest of task f
+	- work on new tasks for the next sprint
+
+Am I blocked on anything?
+	- Need Command class to be finished so I can use the inherited methods in Ls class
