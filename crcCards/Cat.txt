@@ -1,0 +1,11 @@
+Class name: Cat
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Provides the contents of a given file in the shell
+
+Collaborators:
+* File
+* OutputTo
+* FileSystem

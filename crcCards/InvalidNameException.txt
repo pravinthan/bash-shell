@@ -1,0 +1,8 @@
+Class name: InvalidNameException
+Parent class: Exception
+Subclasses:
+
+Responsibilities:
+* Displays a given error message
+
+Collaborators:

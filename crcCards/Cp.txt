@@ -1,0 +1,14 @@
+Class name: Cp
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Copies either directories or files from one path to another
+* Able to copy an existing given file's contents to another nonexistent given file
+* Able to overwrite files given two existing files
+
+Collaborators:
+* FileSystem
+* Directory
+* File
+* Output

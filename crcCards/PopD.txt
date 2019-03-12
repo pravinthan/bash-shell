@@ -1,0 +1,10 @@
+Class name: PopD
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Changes the directory to the previous working directory, if there is one. If there is not, provide an error message
+
+Collaborators:
+* Cd
+* FileSystem

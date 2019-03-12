@@ -1,0 +1,12 @@
+Class name: Grep
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Output any lines in a given file or a directory's files that contains the given string 
+
+Collaborators:
+* FileSystem
+* Directory
+* File
+* Output

@@ -1,0 +1,8 @@
+Class name: File
+Parent class:
+Subclasses: 
+
+Responsibilities:
+* Provides the tools needed to access or edit contents of the file
+
+Collaborators:

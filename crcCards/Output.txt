@@ -1,0 +1,8 @@
+Class name: Output
+Parent class:
+Subclasses: OutputToJShell
+
+Responsibilities:
+* Handles the output format for the commands
+
+Collaborators:

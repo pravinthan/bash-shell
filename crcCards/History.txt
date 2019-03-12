@@ -1,0 +1,8 @@
+Class name: History
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Provides a history of the commands input from the least recent to most recent, or if a number n is given, provide n recent history of commands
+
+Collaborators:

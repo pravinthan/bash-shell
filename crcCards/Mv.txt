@@ -1,0 +1,15 @@
+Class name: Mv
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Moves either directories or files from one path to another
+* Able to rename files given a existing file and a nonexistent file
+* Able to overwrite files given two existing files and remove the first file
+
+Collaborators:
+* FileSystem
+* Directory
+* File
+* Output
+* Cp

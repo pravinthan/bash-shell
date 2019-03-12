@@ -1,0 +1,23 @@
+Class name: Man
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Provides the documentation for a given command
+
+Collaborators:
+* Cat
+* Cd
+* Echo
+* Exit
+* Find
+* History
+* Ls
+* Man
+* Mkdir
+* PopD
+* PushD
+* Pwd
+* Tree
+* Output
+

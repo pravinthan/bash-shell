@@ -1,0 +1,12 @@
+Class name: Directory
+Parent class:
+Subclasses:
+
+Responsibilities:
+* Stores the name of the directory
+* Store the path of the directory
+* Store a collection of directories and files inside it
+
+Collaborators:
+* Directory
+* FIle

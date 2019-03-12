@@ -1,0 +1,10 @@
+Class name: Currentdirectory
+Parent class:
+Subclasses:
+
+Responsibilities:
+* Keeps track of which directory the user is currently working in
+* Holds a history of past current directories user was in
+
+Collaborators:
+* Directory

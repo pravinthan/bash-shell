@@ -1,0 +1,10 @@
+Class name: RepeatCmd
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Re-executes a previously entered command given its number relative to all written commands
+
+Collaborators:
+* FileSystem
+* Output

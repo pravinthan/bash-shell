@@ -1,0 +1,8 @@
+Class name: NoSuchFileException
+Parent class: Exception
+Subclasses:
+
+Responsibilities:
+* Displays a given error message
+
+Collaborators:

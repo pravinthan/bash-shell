@@ -1,0 +1,11 @@
+Class name: Find
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Search in a number of directories for directories or files that have the desired name
+
+Collaborators:
+* FileSystem
+* Directory
+* File

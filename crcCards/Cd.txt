@@ -1,0 +1,9 @@
+Class name: Cd
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Changes your current working directory to the given directory using either a relative path name or absolute path name
+
+Collaborators:
+* FileSystem

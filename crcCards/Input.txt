@@ -1,0 +1,8 @@
+Class name: Input
+Parent class:
+Subclasses:
+
+Responsibilities:
+* Handles the input of the user
+
+Collaborators:

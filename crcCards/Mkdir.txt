@@ -1,0 +1,10 @@
+Class name: Mkdir
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Creates a directory using a relative path name or using an absolute path name
+
+Collaborators:
+* FileSystem
+* Cd

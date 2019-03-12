@@ -1,0 +1,12 @@
+Class name: Command
+Parent class:
+Subclasses: Cat, Cd, Echo, Exit, Find, History, Ls, Man, Mkdir, PopD, PushD, Pwd, Tree
+
+Responsibilities:
+* Verifying syntax of user input
+* Providing the documentation for the command
+* Redirect output of command if needed
+* Run the command
+
+Collaborators:
+JShell

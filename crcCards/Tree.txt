@@ -1,0 +1,10 @@
+Class name: Find
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Procide a visual structure of the current file system
+
+Collaborators:
+* FileSystem
+* Output

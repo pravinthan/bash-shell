@@ -1,0 +1,12 @@
+Class name: Ls
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Provides names of the contents in the current working directory
+
+Collaborators:
+* FileSystem
+* Directory
+* File
+* Output

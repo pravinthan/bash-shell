@@ -1,0 +1,12 @@
+Class name: Echo
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Replaces or adds a string to the given file or creates a new file if the given file does not exist
+
+Collaborators:
+* FileSystem
+* Cd
+* File
+* Output
