@@ -1,0 +1,15 @@
+As a user, I want to be able to redirect the output of any command to a given file                                                          30 hrs
+
+As a user, I want to be able to recursively list all subdirectories of a given directory using command ls                                   15 hrs
+
+As a user, I want to be able to move either a directory or a file from a given location to another location                                 15 hrs
+
+As a user, I want to be able to copy either a directory or a file from a given location to another location                                 20 hrs
+
+As a user, I want to be able to get a file at a given URL and add it to my current directory                                                15 hrs
+
+As a user, I want to be able to execute a previously executed command using its number relative to how many commands have been executed     10 hrs
+
+As a user, I want to be able to give a string and a file and view all lines containing the string in that file                              20 hrs
+
+As a user, I want to be able to give a string and a directory and view all lines containing the string in all files of the directory        10 hrs

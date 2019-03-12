@@ -1,0 +1,40 @@
+As a user, I want to be able to exit the program                                                                              1 hr
+
+As a user, I want to be able to make a directory                                                                              24 hrs
+
+As a user, I want to be able to change my current directory                                                                   24 hrs
+
+As a user, I want to be able to use relative path names or absolute path names                                                24 hrs
+
+As a user, I want to be able to list the contents of my current directory                                                     1 hrs
+
+As a user, I want to be able to view a list of concatenated contents of any number of directories                             2 hrs 
+
+As a user, I want to be able to print my current working directory                                                            1 hr
+
+As a user, I want to be able to save my current directory and move to another directory                                       12 hrs
+
+As a user, I want to be able to remove the most recent saved directory and move to it                                         6 hrs
+
+As a user, I want to be able view a history of the most recent commands, either a certain number of them or all               4 hrs 
+
+As a user, I want to be able to display the contents of any number of files concatenated in the program                       4 hrs
+
+As a user, I want to be able to overwrite a file with a string                                                                4 hrs  
+
+As a user, I want to be able to append a string into a file                                                                   4 hrs
+
+As a user, I want to be able to view documentation for any command                                                            12 hrs
+
+As a user, I want to be able to have spaces between, before or after a command and its arguments                              2 hrs
+
+As a user, I want to be able to type into a console to run various commands                                                   1 hrs
+
+As a user, I want to be able to see my current working directory in each line when typing in input			      1 hrs
+
+As a user, I want to be able to find a file in given directories using a given name					      3 hrs
+
+As a user, I want to be able to find a directory in given directories using a given name                                      1 hrs
+
+As a user, I want to be able to view a formatted tree of the file system						      3 hrs
+
