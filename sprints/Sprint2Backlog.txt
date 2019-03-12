@@ -1,0 +1,109 @@
+Sprint 2 Backlog
+June 22 to June 28
+
+
+
+User Stories from Product Backlog we will address in this sprint:
+
+1) As a user, I want to be able to use relative path names or absolute path names					... implement filesystem st given relative or absolute path, still works
+
+
+2) As a user, I want to be able to view a list of concatenated contents of any number of directories			... implment ls so that it can list contents of given directory paths
+
+
+3) As a user, I want to be able to display the contents of any number of files concatenated in the program			... implement cat command
+
+
+4) As a user, I want to be able to save my current directory and move to another directory					... implement pushD command
+5) As a user, I want to be able to remove the most recent saved directory and move to it					... implement popd command
+
+
+
+6) As a user, I want to be able view a history of the most recent commands, either a certain number of them or all		... implement history command
+
+
+
+7) As a user, I want to be able to overwrite a file with a string								... implement echo so that it overwrites (or prints to shell if no file is provided)
+8) As a user, I want to be able to append a string into a file									... implement echo so that it appends instead of overwriting
+
+
+
+9) As a user, I want to be able to view documentation for any command								... implement man command so that it provides the documention of stated command
+	
+
+10) As a user, I want to be able to find a directory in given directories using a given name					... Implement find command
+
+
+11) As a user, I want to be able to view a formatted tree of the file system							... Implement tree command to outprint file system structure
+
+
+
+Specific Tasks to be Accomplished:
+
+From Sprint1:
+Sp1bl-1.a) implement cd's run
+Sp1bl-1.b) implement mkdir's run
+
+Sp1bl-2.a) Implement ls validate and run method
+
+Sp1bl-3.a) implment pwd's run
+
+
+1.a) (FileSystem) Implement methods of Filesystem such that can both take in a relative path or absolute path
+
+2.a) (Ls) Code ls command's validation
+2.b) (Ls) Code ls commands run so that it can take multiple paths to create string of names of the contencts in each path concatenated
+2.c) (Ls) Make ls class output to jshell by collaborating with outputtojshell
+
+3.a) (Cat) Implement cat's validation
+3.b) (Cat) Implment cat's run so that it can take any number of files and prints the contents of each file (seperated) to the jshell
+
+4.a) (CurrentDirectory) Implement a filo data structure in CurrentDirectory that holds a history of the current directories user was in and make FileSystem hold a non static object of this
+4.b) (FileSystem) Implement code in FileSystem to access the methods in CurrentDirectory
+4.b) (PushD) Implment pushd's validation
+4.c) (PushD) implement pushd's run so that it saves current directory into filo data structure and then changed current directory to given path
+
+5.a) (PopD) Implement popd's validation
+5.b) (PopD) Implement popd's run so that it retrieves the most recen current directory and moves to it
+5.c) (PopD) Throw exception if there is no saved directory
+
+6.a) (History) Implement history's validation
+6.b) (JShell) Implement jshell so that on every user input it saves the string
+6.c) (History) Implment history's run method so that it returns a history of what the user has typed (all or a specific past number of them)
+
+7.a) (Echo) Implment echo's validation
+7.b) (Echo) implement echo's run so that it outputs to jshell the string given if no outfile is given
+7.c) (Echo) Implement echo's run so that it overwrites the contents of the given outfile with given string
+8.a) (Echo) Implement echo's run so that it appends the contents of the given outfile with given string if chose to do so instead of overwriting
+
+9.a) Write documentation for all the commands
+9.b) (Command classes) Make each command hold its documentation
+9.c) (Man) implement man so that it prints the documentation of desired command to jshell
+
+10.a) Code the find command's validation and run method so that it searches through given paths to find the file or directory with the exact given name
+10.b) Code run so that if a given path is invalid, display a message but continue searching other paths
+10.c) print the result of find command formatted (in any way) to jshell
+
+11.a) Code the tree command's validation and run so that it goes through file system and outputs the entire structure as a tree
+
+Additional Tasks to meet specifications of client:
+A-1) Only allow certain chars for file and directory
+
+
+These Tasks are Assigned as Follows:
+User: Ao Gao
+Tasks: 6.a-c) 7.a-c) 8.a) 10.a-c)
+
+User: Pravinthan Prabagaran
+Tasks: 1.a) Sp1bl-2.a) 2.a-c) A-1)
+
+User: Thomas Lo
+Tasks: 3.a-b) Sp1bl-3.a) 11.a)  9.c)
+
+User: Gi Tae Lim
+Tasks: 4.a-d) 5.a-b) Sp1bl-1.a-b)
+Create Sprint3 Backlog
+
+
+StartGoal: June 27
+As a whole we will do 9.a) and 9.b) for each command after above tasks are completed or if done with your tasks start early

@@ -1,0 +1,66 @@
+Sprint 1 Backlog
+June 15 to June 21
+
+
+User Stories from Product Backlog that we will address in this sprint:
+
+a) As a user, I want to be able to exit the program                                                   ... create exit condition
+b) As a user, I want to be able to type into a console to run various commands                        ... implement getting user input
+c) As a user, I want to be able to have spaces between, before or after a command and its arguments   ... write function to correct input
+d) As a user, I want to be able to see my current working directory in each line when typing in input ... write the pwd command
+e) As a user, I want to be able to print my current working directory                                 ... implement FileSystem
+f) As a user, I want to be able to list the contents of my current directory                          ... implement FileSystem m
+g) As a user, I want to be able to change my current directory                                        ... write cd command
+                                                                                                      ... including PopD and PushD
+h) As a user, I want to be able to make a directory                                                   ... implement Directory Class (Node)
+                                                                                                      ... implement FileSystem (Structure)
+
+
+
+Specific Tasks to be Accomplished:
+
+a.1 (JShell/Exit) Create a key word command (exit) that exits the command prompt loop
+a.2 (JShell) Have the program terminate
+
+b.1 (JShell) Make the console continuously prompt user for command input
+b.2 (JShell) Echo the input the user inputs into the console -> the command in the first line and the arguments in second line
+b.3 (JShell) IF the user inputs an invalid command print that command was invalid to console
+
+c.1 (JShell) Take in input and save the input after removing unnecessary white space
+
+d.1 (JShell) Invoke pwd on every prompt and print the current working directory the user is in
+
+e.1 (JShell) Create a key word command that prints the current working directory's name to the console
+e.2 (Pwd) Implement Pwd so that, if needed it uses cd command to change directory, it retrieves the name of the current working directory and return
+e.3 (JShell) When pwd command is used, print the current directory gotten from pwd to console
+
+f.1 (Directory) Write base code for Directory class
+f.2 (Directory) Implement Directory class such that it holds a list of "child" directories and folders and able to get all the contents it holds
+f.3 (Directory) Make Directory have a reference to its "parent" directory
+f.4 (Directory) Make Directory store its name and be able to get its name
+f.5 (File) Implement File such that each file has a name and is able to get its name
+f.6 (Ls) Implement Ls so that, if needed it uses cd command to change directory, it can take all the names of the directories/files in the current directory and concatenate into a string to return
+f.7 (JShell) Print the names of all the contents in the current directory when ls command is called
+
+g.1 (JShell) Create a key word command that changes your current working directory to another directory
+g.2 (Cd) Implement Cd such that it has access to the Directory class and each Directory object's "parent" and "child" Directories
+
+
+h.1 (JShell) Create a key word command that creates a directory in the current directory
+h.2 (Mkdir) Implement class so that it creates a directory in a different directory or in the current directory
+
+
+
+
+These Tasks are Assigned as Follows:
+User: Ao Gao
+Tasks: a.1-2, b.1-3
+
+User: Pravinthan Prabagaran
+Tasks: f.1-7
+
+User: Thomas Lo
+Tasks: d.1, e.1-3
+
+User: Gi Tae Lim
+Tasks: c.1, g.1-2, h.1-2

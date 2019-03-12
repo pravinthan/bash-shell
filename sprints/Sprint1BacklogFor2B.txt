@@ -1,0 +1,72 @@
+Sprint 1 Backlog
+July 10 to July 16
+
+
+User Stories from Product Backlog that we will address in this sprint:
+
+1) As a user, I want to be able to redirect the output of any command to a given file								... Add additionaly functionality to all execution of commands
+
+2) As a user, I want to be able to recursively list all subdirectories of a given directory using command ls					... Add recursiveness to ls commmand
+
+3) As a user, I want to be able to move either a directory or a file from a given location to another location					... Create move command
+
+4) As a user, I want to be able to copy either a directory or a file from a given location to another location					... Create copy command
+
+5) As a user, I want to be able to execute a previously executed command using its number relative to how many commands have been executed	... Create repeatCmd command
+
+
+
+
+
+Specific Tasks to be Accomplished:
+
+1)
+a. Add implementation in command class so any sub class that needs to redirect can do so
+b. Code in the case where user wants to redirect
+
+
+2) 
+a. Update Syntax check method
+b. Add recursiveness to the command execution so that if key word -r is entered recursicely list all subdirectories in the given paths
+
+
+3)
+a. Create move command class and code the syntax check
+b. Use copy command to move the given directory/file to a new directory but delete the original
+
+
+
+4)
+a. Create copy command class and code the syntax check
+b. Code the run method to copy a directory or a file given directory (if copying directory, copy all its contents as well)
+
+5)
+a. Create repeatCmd class and code the syntax check
+b. Create exception class for when trying to run repeatCmd with a # that is not in the history of cmds
+c. Code the basic function of run method (not trying to redirect to a file)
+
+
+
+Additional tasks not from user stories:
+A1) Update crcCards for new specification
+A2) Change jshell so that it uses a hashtable
+
+
+
+
+These Tasks are Assigned as Follows:
+
+User: All users
+Tasks: A1, 1.b
+
+User: Ao Gao
+Tasks: 4.a-b
+
+User: Pravinthan Prabagaran
+Tasks: 2.a-b 3.a-b
+
+User: Thomas Lo
+Tasks: 5.a-c
+
+User: Gi Tae Lim
+Tasks: A2, 1.a

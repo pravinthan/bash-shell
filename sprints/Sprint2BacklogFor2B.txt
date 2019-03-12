@@ -1,0 +1,53 @@
+Sprint 2 Backlog
+July 17 to July 23
+
+
+User Stories from Product Backlog that we will address in this sprint:
+
+1) As a user, I want to be able to get a file at a given URL and add it to my current directory					... curl
+
+2) As a user, I want to be able to give a string and a file and view all lines containing the string in that file			... grep
+
+3) As a user, I want to be able to give a string and a directory and view all lines containing the string in all files of the directory	... grep
+
+
+
+
+Specific Tasks to be Accomplished:
+
+1) 
+a. Create curl class and implement methods that need to be overridden
+b. Make curl class create new file in current working directory with contents retrieved from url
+c. Create URLHandler(?) class/interface for getting contents of a file in a url
+
+2)
+a. Create grep class and implement methods that need to be overridden except run
+b. implement run such that it returns the lines that the regex matches in the single file path
+
+3)
+a. Add to implementation in 2b st this can be done recursively, given a directory to all the files that reside within that directory
+
+
+
+Additional tasks not from user stories:
+A1) Test commands and fix bugs
+
+
+ 
+
+These Tasks are Assigned as Follows:
+
+User: All users
+Tasks: A1)
+
+User: Ao Gao
+Tasks: 2.a-b 3.a
+
+User: Pravinthan Prabagaran
+Tasks: 2.a-b 3.a
+
+User: Thomas Lo
+Tasks: 1.a-c
+
+User: Gi Tae Lim
+Tasks: 1.a-c

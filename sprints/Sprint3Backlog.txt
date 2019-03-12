@@ -1,0 +1,45 @@
+Sprint 3 Backlog
+June 29 to July 2
+
+
+User Stories we will address in this sprint
+
+1) As a user, I want to be able to display the contents of any number of files concatenated in the program			... fix bug in cat
+
+2) As a user, I want to be able to overwrite a file with a string								... implement echo so that it overwrites (or prints to shell if no file is provided)
+2) As a user, I want to be able to append a string into a file									... implement echo so that it appends instead of overwriting
+
+3) As a user, I want to be able to find a directory in given directories using a given name					... Implement find command
+
+4) As a user, I want to be able to view documentation for any command								... write documentation for all commands
+
+
+Tasks:
+
+1.a) (Cat) Fix bug in cat (edge cases)
+
+2.a) (Echo) Command failed in demo for some cases. Fix bugs
+
+3.a) (Find) Code the find command's validation and run method so that it searches through given paths to find the file or directory with the exact given name
+3.b) (Find) Code run so that if a given path is invalid, display a message but continue searching other paths
+3.c) (Find) print the result of find command formatted (in any way) to jshell
+
+4.a) (Command) documentation for all commands
+
+*) Test code for bugs and fix any
+**) Revise code to keep with grading scheme
+
+
+Tasks Assigned as follows:
+
+User: Ao Gao
+Tasks: 2.a) 3.a-c)
+
+User: Pravinthan Prabagaran
+Tasks: 1.a) 4.a)
+
+User: Thomas Lo
+Tasks: 1.a) *) **)
+
+User: Gi Tae Lim
+Tasks: *) **)
